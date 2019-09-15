@@ -1,6 +1,6 @@
 README for DDS_IIITS_1.csv regeneration 
-Authors : IIITS team
-for any issues, please ocntact siddharth.k16@iiits.in or rutvikreddy.v16@iiits.in or anupamaray88@gmail.com
+Authors : Anupama Ray and Siddharth Kumar
+for any issues, please contact siddharth.k16@iiits.in or anupamaray88@gmail.com
 
 Tested on Linux terminal and gitbash of windows
 
