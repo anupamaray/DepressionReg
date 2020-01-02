@@ -1,3 +1,21 @@
+This code base can be used to reproduce the winning results of the "Depression detection with AI", AVEC challenge in ACM Multimedia 2019
+
+The paper with all multimodal results can be found here https://dl.acm.org/doi/10.1145/3347320.3357697
+Full paper at https://arxiv.org/abs/1909.01417
+to cite please use : 
+@inproceedings{10.1145/3347320.3357697,
+ author = {Ray, Anupama and Kumar, Siddharth and Reddy, Rutvik and Mukherjee, Prerana and Garg, Ritu},
+ title = {Multi-Level Attention Network Using Text, Audio and Video for Depression Prediction},
+ year = {2019},
+ publisher = {Association for Computing Machinery},
+ address = {New York, NY, USA},
+ booktitle = {Proceedings of the 9th International on Audio/Visual Emotion Challenge and Workshop},
+ pages = {81–88},
+ numpages = {8},
+ series = {AVEC ’19}
+}
+
+
 README for DDS_IIITS_1.csv regeneration 
 Authors : Anupama Ray and Siddharth Kumar
 for any issues, please contact siddharth.k16@iiits.in or anupamaray88@gmail.com
